@@ -2,3 +2,11 @@
     font-size: 1.3vw;
     color: white;
 }
+
+.App{
+    // width: 100vw;
+	// height: 100vh;
+	background: linear-gradient(334deg, #080828, #0b0d0f, #1d098e);
+	background-size: 180% 180%;
+	animation: gradient-animation 6s ease infinite;
+}

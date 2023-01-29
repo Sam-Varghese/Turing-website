@@ -1,19 +1,9 @@
+// Share Tech font style from google fonts
+// https://fonts.google.com/specimen/Share+Tech?preview.text=The%20Techno%20Learning%20Club&preview.text_type=custom&query=tech#styles
+
 @import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
 
-.pagel{
-    height: 100vh;
-    background-image: url("https://w0.peakpx.com/wallpaper/1004/117/HD-wallpaper-technology-texture-blue-technology-background-creative-blue-background-technology-background-blue-neon-background-blue-neon-abstraction.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    
-}
-
 .page{
-	width: 100vw;
-	height: 100vh;
-	background: linear-gradient(334deg, #080828, #0b0d0f, #1d098e);
-	background-size: 180% 180%;
-	animation: gradient-animation 6s ease infinite;
 }
 
 @keyframes gradient-animation {
@@ -29,11 +19,13 @@
 }
 
 .turingHeading{
-    margin-top: 8vw;
+    margin-top: 5vh;
     // border: 2px solid white;
 }
 .turingHeadingDiv{
     display: flex;
+    // border: 2px solid;
+    height: 95vh;
     align-items: center;
     justify-content: center;
     font-family: 'Share Tech', sans-serif;

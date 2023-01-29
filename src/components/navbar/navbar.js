@@ -6,10 +6,10 @@ export default function NavBar() {
                 <div className="logo">
                     <img src={require("../images/logo.png")} />
                 </div>
-                <div>Home</div>
-                <div>Events</div>
-                <div>Team</div>
-                <div>Contact</div>
+                <div className = "navbarItem">Home</div>
+                <div className = "navbarItem">Events</div>
+                <div className = "navbarItem">Team</div>
+                <div className = "navbarItem">Contact</div>
             </nav>
         </div>
     );

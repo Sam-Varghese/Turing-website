@@ -1,0 +1,28 @@
+.aboutNMOuterDiv{
+    min-height: 100vh;
+    // border: 2px solid;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    h1{
+        font-size: 3vw;
+        text-align: center;
+    }
+}
+
+.innerNMDiv{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    // border: 2px solid;
+    margin: 1vw;
+    img{
+        height: 50vh;
+        width: 45vw;
+    }
+    .NMIndrDesc{
+        width: 40%;
+    }
+}

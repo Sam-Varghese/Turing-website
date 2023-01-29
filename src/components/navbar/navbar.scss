@@ -12,6 +12,25 @@
     box-shadow: 0.5vw 0.5vw 1vw black;
 }
 
+.navbarItem{
+    padding: 0.5vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    border-radius: 0.5vw;
+}
+
+.navbarItem:hover{
+    transition: all;
+    transition-duration: 0.3s;
+    // background-color: rgb(165, 119, 9);
+    box-shadow: 0vw 0vw 0.5vw 0.1vw white;
+    padding: 0.5vw;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    cursor: pointer;
+}
+
+
 .fixNavbar{
     position: fixed;
     width: 100vw;
