@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+## Turing Website
+
+![](https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg)
+
+This repository is meant for the creation of Turing's website. Turing is the technical committee of [NMIMS, Indore](https://www.nmims.edu/). 
+
+## Getting Started with React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
