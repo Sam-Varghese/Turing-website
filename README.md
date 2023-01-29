@@ -2,7 +2,34 @@
 
 ![](https://cdn.pixabay.com/photo/2019/01/31/20/52/web-3967926_960_720.jpg)
 
+
 This repository is meant for the creation of Turing's website. Turing is the technical committee of [NMIMS, Indore](https://www.nmims.edu/). 
+
+
+System requirements:
+
+-   [Node.js](https://nodejs.org/en/)
+-   [VSCode](https://code.visualstudio.com/) (or any code editor)
+-   [Git](https://git-scm.com/)
+
+---
+
+## Running website on local machine
+
+---
+
+Here are the instructions if you wish to run the website on your machine, locally:
+
+1. [Fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) the repository.
+2. [Clone](https://github.com/Sam-Varghese/Turing-website.git) the forked repository.
+3. Execute `cd turing-website` command in the powershell.
+4. Now execute `npm i` command to install all packages used to make this website.
+5. Now execute `npm start` command to run the code on your machine.
+
+---
+
+The head of technical team of TEDxNMIMS, Indore is [@Sam-Varghese](https://www.linkedin.com/in/sam-varghese-1a7701209/). In case you would like to contribute to this repository, or wish to become a member, etc; feel free to contact him.
+
 
 ## Getting Started with React
 
