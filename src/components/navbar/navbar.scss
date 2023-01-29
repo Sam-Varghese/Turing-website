@@ -1,0 +1,19 @@
+.logo img{
+    width: 3vw;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to right, rgb(15, 80, 86), rgb(40, 4, 77), rgb(3, 82, 82));
+    padding: 0.5vw;
+    box-shadow: 0.5vw 0.5vw 1vw black;
+}
+
+.fixNavbar{
+    position: fixed;
+    width: 100vw;
+    top: 0;
+}
