@@ -20,3 +20,10 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+    .eventsInnerDiv{
+        border: none;
+    }
+}
