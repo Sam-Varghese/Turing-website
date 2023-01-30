@@ -1,21 +1,20 @@
 @media screen and (min-width: 1000px) {
-    .swiperSlide{
+    .swiperSlide {
         display: flex;
         justify-content: center;
-        img{
+        img {
             object-fit: cover;
-            // height: 80vh;
-            min-height: 50vh;
-            min-width: 50%;
+            min-height: 90vh;
+            min-width: 90%;
         }
     }
 }
 
 @media screen and (max-width: 1000px) {
-        .swiperSlide{
+    .swiperSlide {
         display: flex;
         justify-content: center;
-        img{
+        img {
             // object-fit: cover;
             // height: 80vh;
             min-width: 50%;
@@ -23,14 +22,24 @@
     }
 }
 
-.swiperSlide{
+.swiperSlide {
     z-index: -1;
 
-    img{
-                object-fit: cover;
-    max-height: 15vh;
+    img {
+        object-fit: cover;
+        max-height: 15vh;
     }
 }
-.mySwiper{
+.mySwiper {
     z-index: 2;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .swiperSlide {
+        img {
+            width: 80%;
+            object-fit: cover;
+            min-height: 30vh;
+        }
+    }
 }

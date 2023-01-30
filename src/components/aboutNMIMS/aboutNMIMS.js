@@ -14,7 +14,7 @@ export default function AboutNMIMS() {
                     Science, Law, Aviation, Liberal Arts, Design & Distance
                     Learning.
                 </div>
-                <div>
+                <div className = "gifDiv">
                     <img src = {require("../images/NMIMS.gif")} />
                 </div>
             </div>

@@ -2,37 +2,59 @@
 // https://fonts.google.com/specimen/Share+Tech?preview.text=The%20Techno%20Learning%20Club&preview.text_type=custom&query=tech#styles
 
 
-.page{
-}
-
 @keyframes gradient-animation {
-	0% {
-		background-position: 0% 50%;
-	}
-	50% {
-		background-position: 100% 50%;
-	}
-	100% {
-		background-position: 0% 50%;
-	}
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
 }
 
-.turingHeading{
+.turingHeading {
     margin-top: 5vh;
     // border: 2px solid white;
 }
-.turingHeadingDiv{
+.turingHeadingDiv {
     display: flex;
     // border: 2px solid;
     height: 95vh;
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    .subHeading{
+    .subHeading {
         font-size: 2vw;
     }
 }
 
-a{
+a {
     text-decoration: none;
+}
+
+// Adding responsiveness
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .turingHeading {
+        margin-top: 5vh;
+        max-width: 30%;
+        // border: 2px solid white;
+    }
+    .page{
+        // border: 2px solid white;
+        // max-width: 50%;
+    }
+    .turingHeadingDiv{
+        // border: 2px solid red;
+        max-height: 50vh;
+        .subHeading{
+            font-size: 5vw;
+        }
+        img{
+            min-width: 90%;
+            // border: 2px solid;
+        }
+    }
 }

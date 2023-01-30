@@ -37,3 +37,16 @@
     top: 0;
     z-index: 10;
 }
+
+
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+    .fixNavbar{
+        // max-width: 50%;
+        // border: 2px solid white;
+
+    }
+    .logo img{
+    width: 8vw;
+}
+}

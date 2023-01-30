@@ -2,12 +2,24 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/navigation";
-import { Autoplay, Pagination, Navigation } from "swiper";
-import "./homepageCarousel.scss"
+import { Autoplay, Navigation } from "swiper";
+import "./homepageCarousel.scss";
+import "swiper/css/effect-cube";
+import { EffectCube, Pagination } from "swiper";
 export default function Carousel() {
     return (
         <>
             <Swiper
+                effect={"cube"}
+                grabCursor={true}
+                cubeEffect={{
+                    shadow: true,
+                    slideShadows: true,
+                    shadowOffset: 20,
+                    shadowScale: 0.94,
+                }}
+
+
                 slidesPerView={1}
                 // spaceBetween={30}
                 autoplay={{
@@ -18,8 +30,9 @@ export default function Carousel() {
                 pagination={{
                     clickable: true,
                 }}
+                // navigation={true}
                 navigation={true}
-                modules={[Autoplay, Pagination, Navigation]}
+                modules={[Autoplay, Pagination, Navigation, EffectCube]}
                 className="mySwiper"
                 centeredSlides={true}
                 centeredSlidesBounds={true}
@@ -86,7 +99,6 @@ export default function Carousel() {
                         />
                     </div>
                 </SwiperSlide>
-                
             </Swiper>
         </>
     );

@@ -6,6 +6,8 @@
     font-size: 1.3vw;
     color: white;
 	font-family: 'Share Tech', sans-serif;
+	// border: 2px solid red;
+	// margin: 0.2vw;
 }
 
 .App{
@@ -14,4 +16,16 @@
 	background: linear-gradient(334deg, #080828, #0b0d0f, #1d098e);
 	background-size: 180% 180%;
 	animation: gradient-animation 6s ease infinite;
+}
+
+
+@media screen and (max-device-width: 480px)
+and (orientation: portrait) {
+    .App{
+		// border: 2px solid red;
+		// max-width: 50%;
+	}
+	*{
+		font-size: 4vw;
+	}
 }

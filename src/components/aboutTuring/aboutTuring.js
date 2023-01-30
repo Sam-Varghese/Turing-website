@@ -4,7 +4,7 @@ export default function AboutTuring() {
         <div className="aboutNMOuterDiv">
             <h1>About Turing</h1>
             <div className="innerNMDiv">
-                <div>
+                <div className="gifDiv">
                     <img src={require("../images/Turing.gif")} />
                 </div>
                 <div className="NMIndrDesc">
