@@ -1,0 +1,22 @@
+.eventsOuterDiv{
+    min-height: 100vh;
+    margin-top: 2vw;
+    // padding: 3vw;
+    // border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.eventsOuterDiv h1{
+    font-size: 5vw;
+}
+
+.eventsInnerDiv{
+    margin: 2vw;
+    border: 2px solid white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

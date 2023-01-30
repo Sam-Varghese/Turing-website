@@ -1,0 +1,36 @@
+@media screen and (min-width: 1000px) {
+    .swiperSlide{
+        display: flex;
+        justify-content: center;
+        img{
+            object-fit: cover;
+            // height: 80vh;
+            min-height: 50vh;
+            min-width: 50%;
+        }
+    }
+}
+
+@media screen and (max-width: 1000px) {
+        .swiperSlide{
+        display: flex;
+        justify-content: center;
+        img{
+            // object-fit: cover;
+            // height: 80vh;
+            min-width: 50%;
+        }
+    }
+}
+
+.swiperSlide{
+    z-index: -1;
+
+    img{
+                object-fit: cover;
+    max-height: 15vh;
+    }
+}
+.mySwiper{
+    z-index: 2;
+}

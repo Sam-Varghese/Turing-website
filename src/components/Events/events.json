@@ -1,0 +1,39 @@
+{
+    "events": [
+        {
+            "title": "Flash Coding Challenge",
+            "desc": "Flash coding challenge is a competitive coding competition wherein students are required to solve a set of question within a limited time frame. Students are free to use any resource like Google, books, etc for solving the questions.",
+            "imagePath": "eventsImages/img1.webp",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        },
+        {
+            "title": "ProblemScape",
+            "desc": "ProblemScape was an event wherein students were required to search the problems campus students are facing there, and to come up with an innovative solution. It have a prize pool of worth 30,000 rup.",
+            "imagePath": "eventsImages/img2.webp",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        },
+        {
+            "title": "Xyro, Battle Grounds",
+            "desc": "Turing conducted an annual gaming event in Battle Grounds Mobile India. Competitions were also conducted for Chess, Valorant, etc",
+            "imagePath": "eventsImages/img3.jpg",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        },
+        {
+            "title": "Xyro, Chess",
+            "desc": "Turing conducted an annual gaming event for Chess. Competitions were also conducted for Battle Grounds, Valorant, etc",
+            "imagePath": "eventsImages/img4.jpg",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        },
+        {
+            "title": "Arcania",
+            "desc": "Arcania was a quiz competition conducted by Turing, which was to test, and enhance the General and Technical Knowledge of students.",
+            "imagePath": "eventsImages/img6.jpg",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        }
+    ]
+}

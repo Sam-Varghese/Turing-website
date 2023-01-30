@@ -1,7 +1,6 @@
 // Share Tech font style from google fonts
 // https://fonts.google.com/specimen/Share+Tech?preview.text=The%20Techno%20Learning%20Club&preview.text_type=custom&query=tech#styles
 
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech&display=swap');
 
 .page{
 }
@@ -28,9 +27,12 @@
     height: 95vh;
     align-items: center;
     justify-content: center;
-    font-family: 'Share Tech', sans-serif;
     flex-direction: column;
     .subHeading{
         font-size: 2vw;
     }
+}
+
+a{
+    text-decoration: none;
 }
