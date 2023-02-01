@@ -1,0 +1,19 @@
+.teamOuterDiv{
+    padding-top: 2vw;
+    h1{
+        font-size: 5vw;
+    // border: 2px solid;
+        text-align: center;
+        margin-bottom: 1vw;
+    }
+    // border: 2px solid;
+    min-height: 100vh;
+}
+
+.teamInnerDiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}

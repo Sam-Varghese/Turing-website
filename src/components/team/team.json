@@ -1,0 +1,85 @@
+{
+    "teamMembers": [
+        {
+            "name": "Varnika Singh",
+            "post": "Core Member",
+            "profileImage": "/teamImages/Varnika.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Krish Dwivedi",
+            "post": "Core Member",
+            "profileImage": "/teamImages/Krish.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Pranav Kadam",
+            "post": "Core Member",
+            "profileImage": "/teamImages/Pranav.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Manas Vyas",
+            "post": "Core Member",
+            "profileImage": "/teamImages/Manas.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+
+        {
+            "name": "Akshat Jain",
+            "post": "Core Member",
+            "profileImage": "/teamImages/Akshat.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Dev Suri",
+            "post": "Operations Head",
+            "profileImage": "/teamImages/Dev.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Ansh Ronald Ward",
+            "post": "Finance Head",
+            "profileImage": "/teamImages/Ansh.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Sam Varghese",
+            "post": "Technical Head",
+            "profileImage": "/teamImages/Sam.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Isha Chandravanshi",
+            "post": "PR Head",
+            "profileImage": "/teamImages/Isha.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        },
+        {
+            "name": "Aaditya Jain",
+            "post": "Sponsorship Head",
+            "profileImage": "/teamImages/Aaditya.jpg",
+            "linkedinProfileLink": "https://www.linkedin.com/in/sam-varghese2003/",
+            "mailId": "mailto:sam.varg.2003@gmail.com",
+            "instaProfileLink": "https://instagram.com"
+        }
+    ]
+}

@@ -7,6 +7,7 @@ import Carousel from "./components/carousel/homepageCarousel";
 import Events from "./components/Events/Events";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/navbar/navbar";
+import Team from "./components/team/team";
 
 function App() {
     return (
@@ -37,9 +38,19 @@ function App() {
                     exact={true}
                     path="/events"
                     element={
-                      <div className="App">
-                        <NavBar />
+                        <div className="App">
+                            <NavBar />
                             <Events />
+                        </div>
+                    }
+                />
+                <Route
+                    exact={true}
+                    path="/team"
+                    element={
+                        <div className="App">
+                            <NavBar />
+                            <Team />
                         </div>
                     }
                 />

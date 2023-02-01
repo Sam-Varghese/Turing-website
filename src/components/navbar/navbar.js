@@ -3,9 +3,11 @@ export default function NavBar() {
     return (
         <div className="fixNavbar">
             <nav className="navbar">
-                <div className="logo">
-                    <img src={require("../images/logo.png")} />
-                </div>
+                <a href="/">
+                    <div className="logo">
+                        <img src={require("../images/logo.png")} />
+                    </div>
+                </a>
                 <a href="/">
                     <div className="navbarItem">Home</div>
                 </a>

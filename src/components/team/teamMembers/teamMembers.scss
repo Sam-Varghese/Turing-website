@@ -1,0 +1,77 @@
+.teamMembersDPDiv {
+    img {
+        height: 50vh;
+    }
+    border: 2px solid;
+    border-radius: 1vw 1vw 0vw 0vw;
+}
+
+.teamMembersOuterDiv {
+    margin: 1vw;
+    display: flex;
+    flex-direction: column;
+    min-width: 30%;
+    div {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+.teamMembersNameDiv {
+    font-size: 2.5vw;
+    // margin: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+
+    border: 2px solid;
+    // border-radius: 1vw;
+}
+
+.teamMembersPostDiv {
+    font-size: 2vw;
+    border: 0.2vw solid gold;
+    // background-image: linear-gradient(to right, gold 0% 5%, black 5% 95%, gold 95% 100%);
+    background-image: linear-gradient(
+        to right,
+        rgb(245, 176, 10) 0% 5%,
+        black 5% 95%,
+        rgb(245, 176, 10) 95% 100%
+    );
+    color: cyan;
+}
+
+.teamMembersProfileDiv {
+    border: 2px solid;
+    border-radius: 0vw 0vw 1vw 1vw;
+    img {
+        width: 2.5vw;
+        margin: 1vw;
+    }
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .teamMembersDPDiv {
+        img {
+            height: 25vh;
+        }
+        border: 2px solid;
+        border-radius: 1vw 1vw 0vw 0vw;
+    }
+    .teamMembersOuterDiv{
+        min-width: 40%;
+        margin: 2vw;
+    }
+    .teamMembersNameDiv{
+        font-size: 4vw;
+    }
+    .teamMembersPostDiv{
+        font-size: 3.5vw;
+    }
+    .teamMembersProfileDiv {
+    img {
+        width: 5vw;
+        margin: 2vw;
+    }
+}
+}
