@@ -8,7 +8,7 @@ import Events from "./components/Events/Events";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import NavBar from "./components/navbar/navbar";
 import Team from "./components/team/team";
-
+import Technex2023 from "./components/technex/technex";
 function App() {
     return (
         <Router>
@@ -51,6 +51,16 @@ function App() {
                         <div className="App">
                             <NavBar />
                             <Team />
+                        </div>
+                    }
+                />
+                <Route
+                    exact={true}
+                    path="/technex2023"
+                    element={
+                        <div className="App">
+                            <NavBar />
+                            <Technex2023 />
                         </div>
                     }
                 />

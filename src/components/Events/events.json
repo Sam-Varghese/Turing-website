@@ -8,6 +8,13 @@
             "conducted": true
         },
         {
+            "title": "Technex 2023",
+            "desc": "Veniam eiusmod minim reprehenderit pariatur occaecat in laborum. Magna sunt minim velit aliquip do reprehenderit ex tempor ex adipisicing non sint. Elit qui incididunt incididunt occaecat nulla adipisicing tempor sunt ex.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/technex2023",
+            "conducted": true
+        },
+        {
             "title": "ProblemScape",
             "desc": "ProblemScape was an event wherein students were required to search the problems campus students are facing there, and to come up with an innovative solution. It have a prize pool of worth 30,000 rup.",
             "imagePath": "eventsImages/img2.webp",

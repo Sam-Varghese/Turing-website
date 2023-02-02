@@ -2,7 +2,7 @@
     img {
         height: 50vh;
     }
-    border: 2px solid;
+    border: 0.5vw ridge white;
     border-radius: 1vw 1vw 0vw 0vw;
 }
 
@@ -30,13 +30,14 @@
 
 .teamMembersPostDiv {
     font-size: 2vw;
-    border: 0.2vw solid gold;
+    // border: 0.2vw solid gold;
+    border: 0.2vw dotted cyan;
     // background-image: linear-gradient(to right, gold 0% 5%, black 5% 95%, gold 95% 100%);
     background-image: linear-gradient(
         to right,
-        rgb(245, 176, 10) 0% 5%,
+        white 0% 5%,
         black 5% 95%,
-        rgb(245, 176, 10) 95% 100%
+        white 95% 100%
     );
     color: cyan;
 }
@@ -55,11 +56,11 @@
         img {
             height: 25vh;
         }
-        border: 2px solid;
+        border: 1vw solid;
         border-radius: 1vw 1vw 0vw 0vw;
     }
     .teamMembersOuterDiv{
-        min-width: 40%;
+        min-width: 42%;
         margin: 2vw;
     }
     .teamMembersNameDiv{

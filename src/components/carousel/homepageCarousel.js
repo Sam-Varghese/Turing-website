@@ -74,7 +74,7 @@ export default function Carousel() {
                             loading="lazy"
                             alt="NMIMS, Indore campus images"
                             decoding="async"
-                            src={require("../images/turingMixEventsImages/img9.jpeg")}
+                            src={require("../images/turingMixEventsImages/img9.jpg")}
                         />
                     </div>
                 </SwiperSlide>
@@ -95,7 +95,7 @@ export default function Carousel() {
                             loading="lazy"
                             alt="NMIMS, Indore campus images"
                             decoding="async"
-                            src={require("../images/turingMixEventsImages/img8.jpeg")}
+                            src={require("../images/turingMixEventsImages/img8.jpg")}
                         />
                     </div>
                 </SwiperSlide>

@@ -1,0 +1,34 @@
+{
+    "events": [
+        {
+            "title": "Enigma",
+            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/enigma"
+        },
+        {
+            "title": "Decode It",
+            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/enigma"
+        },
+        {
+            "title": "Workshops",
+            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/enigma"
+        },
+        {
+            "title": "Design Comp.",
+            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/enigma"
+        },
+        {
+            "title": "Showcase",
+            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "imagePath": "eventsImages/technex2023.jpg",
+            "eventLink": "/enigma"
+        }
+    ]
+}
