@@ -1,0 +1,26 @@
+{
+    "technexEvents": [
+        {
+            "name": "Enigma",
+            "registrationLink": "https://google.com",
+            "imagePath": "/eventsImages/enigma.png",
+            "desc": "Aute veniam amet id sint amet elit. Nostrud magna anim ex occaecat. Aute aliquip cillum ea laborum ea. Ex ipsum ut est laboris sunt in. Dolor amet irure laboris sunt elit incididunt nulla dolore ex incididunt nisi ea nulla. Velit ea ea incididunt sit elit labore. Tempor Lorem dolor ipsum qui veniam labore ea fugiat anim proident irure mollit excepteur.Tempor commodo ad ea nisi cillum laborum. Qui esse laboris eu enim proident sunt duis aliqua eiusmod labore quis. Ullamco anim labore voluptate dolore id consequat cillum minim ea aute. Qui pariatur veniam aute incididunt ut proident. Ut aute velit incididunt sint excepteur irure et occaecat. Pariatur dolor officia sunt qui esse est velit.",
+            "instructions": [
+                "Velit amet tempor sit reprehenderit incididunt tempor excepteur duis cupidatat ex consequat irure nostrud ea.",
+                "Tempor eu fugiat incididunt voluptate et.",
+                "Id qui proident sunt fugiat pariatur do.Dolor voluptate deserunt dolore veniam amet dolore eiusmod cillum ullamco.",
+                "Mollit voluptate aliqua culpa et officia duis ipsum aliquip excepteur nostrud nulla occaecat deserunt sint."
+            ]
+        },
+        {
+            "name": "Datathon",
+            "desc": "Aute veniam amet id sint amet elit. Nostrud magna anim ex occaecat. Aute aliquip cillum ea laborum ea. Ex ipsum ut est laboris sunt in. Dolor amet irure laboris sunt elit incididunt nulla dolore ex incididunt nisi ea nulla. Velit ea ea incididunt sit elit labore. Tempor Lorem dolor ipsum qui veniam labore ea fugiat anim proident irure mollit excepteur.",
+            "instructions": [
+                "Velit amet tempor sit reprehenderit incididunt tempor excepteur duis cupidatat ex consequat irure nostrud ea.",
+                "Tempor eu fugiat incididunt voluptate et.",
+                "Id qui proident sunt fugiat pariatur do.Dolor voluptate deserunt dolore veniam amet dolore eiusmod cillum ullamco.",
+                "Mollit voluptate aliqua culpa et officia duis ipsum aliquip excepteur nostrud nulla occaecat deserunt sint."
+            ]
+        }
+    ]
+}
