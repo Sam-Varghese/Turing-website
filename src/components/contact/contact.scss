@@ -1,0 +1,49 @@
+.contactOuterDiv {
+    padding-top: 2vw;
+    h1 {
+        font-size: 5vw;
+        text-align: center;
+    }
+    div {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    min-height: 100vh;
+}
+
+.contactDivMap {
+    iframe {
+        border-radius: 1vw;
+        width: 90%;
+        height: 50vh;
+    }
+}
+
+.socialMedia {
+    // border: 2px solid;
+    margin: 1vw;
+    margin-top: 3vw;
+    img {
+        max-height: 3vw;
+        margin: 1vw;
+    }
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .contactOuterDiv {
+        padding-top: 10vw;
+        h1 {
+            font-size: 10vw;
+        }
+    }
+    .socialMedia {
+        // border: 2px solid;
+        height: 10vh;
+        img {
+            // width: 10vw;
+            margin: 5vw;
+            min-height: 5vh;
+        }
+    }
+}

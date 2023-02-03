@@ -11,7 +11,11 @@ import Team from "./components/team/team";
 import Technex2023 from "./components/technex/technex";
 import EventsPage from "./components/eventsPage/eventsPage";
 import data from "./components/eventDetails/eventDetails.json";
-
+import Contact from "./components/contact/contact";
+console.log("%c Turing Website ", "background-color: black; color: white; font-size: 5vw; text-align: center; display: block");
+console.log(
+    "This website is made by Sam Varghese, the Tech Lead of Turing, NMIMS, Indore.\nProfile link: https://www.linkedin.com/in/sam-varghese2003/"
+);
 function App() {
     return (
         <Router>
@@ -25,6 +29,7 @@ function App() {
                             <Carousel />
                             <AboutNMIMS />
                             <AboutTuring />
+                            <Contact />
                         </div>
                     }
                 />
@@ -81,6 +86,16 @@ function App() {
                                 imagePath={data.technexEvents[0].imagePath} 
                                 registrationLink={data.technexEvents[0].registrationLink}
                             />
+                        </div>
+                    }
+                />
+                <Route
+                    exact={true}
+                    path="/contact"
+                    element={
+                        <div className="App">
+                            <NavBar />
+                            <Contact />
                         </div>
                     }
                 />

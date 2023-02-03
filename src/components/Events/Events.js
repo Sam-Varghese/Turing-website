@@ -7,6 +7,7 @@ const eventsUnitArray = data.events.map((value, index) => {
         <EventsUnitComponent
             imagePath={value.imagePath}
             title={value.title}
+            key={value.title}
             desc={value.desc}
             eventLink={value.eventLink}
         />
@@ -14,7 +15,6 @@ const eventsUnitArray = data.events.map((value, index) => {
 })
 
 export default function Events() {
-    console.log(data);
     return (
         <div className="eventsOuterDiv">
             <h1>Events</h1>
