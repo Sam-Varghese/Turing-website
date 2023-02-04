@@ -1,0 +1,69 @@
+.eventsPageDiv {
+    padding-top: 5vw;
+    min-height: 100vh;
+    // border: 2px solid red;
+}
+
+.eventsPageHeadingDiv {
+    h1 {
+        font-size: 5vw;
+        text-align: center;
+    }
+}
+
+.eventsPageDescDiv {
+    // border: 2px solid;
+    margin: 1vw;
+    margin-top: 0;
+}
+
+.eventsPageInstructions {
+    // border: 2px solid red;
+    padding-right: 1vw;
+    padding-left: 1vw;
+    padding-bottom: 1vw;
+    h2 {
+        font-size: 3vw;
+    }
+}
+
+.eventsPageImageDiv {
+    display: flex;
+    justify-content: center;
+    img {
+        // border: 2px solid;
+        border-radius: 0.3vw;
+        max-width: 60%;
+        width: 30%;
+    }
+}
+
+.registrationButton {
+    // border: 2px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 2vw;
+}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+    .eventsPageHeadingDiv {
+        h1 {
+            font-size: 8vw;
+        }
+    }
+    .eventsPageInstructions{
+        h2{
+            font-size: 6vw;
+        }
+    }
+    .eventsPageDiv {
+        padding: 4vw;
+        padding-top: 10vw;
+    }
+    .eventsPageImageDiv {
+        img {
+            width: 80%;
+        }
+    }
+}

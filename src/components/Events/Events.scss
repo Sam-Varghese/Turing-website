@@ -34,4 +34,10 @@ and (orientation: portrait) {
     .eventsInnerDiv{
         border: none;
     }
+    .eventsOuterDiv{
+        padding-top: 6vw;
+        h1{
+            font-size: 10vw;
+        }
+    }
 }
