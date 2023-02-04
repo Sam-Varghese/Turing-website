@@ -44,7 +44,7 @@ export default function Carousel() {
                             loading="lazy"
                             alt="NMIMS, Indore campus images"
                             decoding="async"
-                            src={require("../images/turingMixEventsImages/img1.webp")}
+                            src="/eventsImages/img11.webp"
                         />
                     </div>
                 </SwiperSlide>

@@ -4,7 +4,7 @@
             "title": "Enigma",
             "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
             "imagePath": "eventsImages/technex2023.jpg",
-            "eventLink": "/enigma"
+            "eventLink": "/technex2023/events/enigma"
         },
         {
             "title": "Decode It",
@@ -26,7 +26,7 @@
         },
         {
             "title": "Showcase",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "desc": "Dauis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
             "imagePath": "eventsImages/technex2023.jpg",
             "eventLink": "/enigma"
         }
