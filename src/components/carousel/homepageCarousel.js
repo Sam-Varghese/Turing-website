@@ -44,7 +44,7 @@ export default function Carousel() {
                             loading="lazy"
                             alt="NMIMS, Indore campus images"
                             decoding="async"
-                            src="/eventsImages/img11.webp"
+                            src={require("../images/turingMixEventsImages/img1.jpg")}
                         />
                     </div>
                 </SwiperSlide>
@@ -54,7 +54,7 @@ export default function Carousel() {
                             loading="lazy"
                             alt="NMIMS, Indore campus images"
                             decoding="async"
-                            src={require("../images/turingMixEventsImages/img2.webp")}
+                            src={require("../images/turingMixEventsImages/img2.jpg")}
                         />
                     </div>
                 </SwiperSlide>
