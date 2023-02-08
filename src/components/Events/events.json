@@ -1,13 +1,6 @@
 {
     "events": [
         {
-            "title": "Flash Coding Challenge",
-            "desc": "Flash coding challenge is a competitive coding competition wherein students are required to solve a set of question within a limited time frame. Students are free to use any resource like Google, books, etc for solving the questions.",
-            "imagePath": "eventsImages/img1.webp",
-            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
-            "conducted": true
-        },
-        {
             "title": "Technex 2023",
             "desc": "Veniam eiusmod minim reprehenderit pariatur occaecat in laborum. Magna sunt minim velit aliquip do reprehenderit ex tempor ex adipisicing non sint. Elit qui incididunt incididunt occaecat nulla adipisicing tempor sunt ex.",
             "imagePath": "eventsImages/technex2023.jpg",
@@ -15,9 +8,16 @@
             "conducted": true
         },
         {
+            "title": "Flash Coding Challenge",
+            "desc": "Flash coding challenge is a competitive coding competition wherein students are required to solve a set of question within a limited time frame. Students are free to use any resource like Google, books, etc for solving the questions.",
+            "imagePath": "eventsImages/img1.jpg",
+            "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
+            "conducted": true
+        },
+        {
             "title": "ProblemScape",
             "desc": "ProblemScape was an event wherein students were required to search the problems campus students are facing there, and to come up with an innovative solution. It have a prize pool of worth 30,000 rup.",
-            "imagePath": "eventsImages/img2.webp",
+            "imagePath": "eventsImages/img2.jpg",
             "eventLink": "https://www.instagram.com/p/Cks2In1PPq9/",
             "conducted": true
         },
