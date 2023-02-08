@@ -12,7 +12,7 @@ export default function Contact() {
                     // height="450"
                     // style="border:0;"
                     allow="" 
-                    alt = "NMIMS, Indore location. "
+                    alt = "NMIMS, Indore location."
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
                 ></iframe>

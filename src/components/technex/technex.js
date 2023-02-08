@@ -14,7 +14,6 @@ const eventsUnitArray = data.events.map((value, index) => {
 });
 
 export default function Technex2023() {
-    console.log(data);
     return (
         <div className="eventsOuterDiv">
             <h1>Technex 2023</h1>

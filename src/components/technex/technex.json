@@ -2,33 +2,33 @@
     "events": [
         {
             "title": "Enigma",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
-            "imagePath": "eventsImages/enigma.webp",
+            "desc": "It was a 24-hour hackathon consisting of 3 rounds. Round 1 of Competitive Coding Round (Elimination), Secondly Project Development Round and Third Presentation Round respectively. It was a team event where the team size could be minimum of 2 to maximum of 4.",
+            "imagePath": "eventsImages/technex2023.jpg",
             "eventLink": "/technex2023/events/enigma"
         },
         {
             "title": "Decode It",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "desc": "It will be a one-day event wherein the participants will be expected to solve a scavenger hunt. The questions for the same will be related to the fields of /topics relating to engineering and It is a solo event ,the expected number of participations is 30.",
             "imagePath": "eventsImages/technex2023.jpg",
-            "eventLink": "/enigma"
+            "eventLink": "/technex2023/events/decodeit"
         },
         {
             "title": "Workshops",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "desc": "There will be 1 workshop of 2 hours for 3 days. The topics will be related to engineering. This will be a free event for anyone who is interested.The expected participation is 300.",
             "imagePath": "eventsImages/technex2023.jpg",
-            "eventLink": "/enigma"
+            "eventLink": "/technex2023/events/workshops"
         },
         {
-            "title": "Design Comp.",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "title": "Design Competition",
+            "desc": "It is a one-day event consisting of 3 rounds. Round one of logo making, second poster making and third vector creation. It will be a team event where the team size can be minimum of 1 to maximum of 2 members and The expected number of participation is 30.",
             "imagePath": "eventsImages/technex2023.jpg",
-            "eventLink": "/technex2023/events/enigma"
+            "eventLink": "/technex2023/events/designcompetition"
         },
         {
             "title": "Showcase",
-            "desc": "Duis enim enim laborum in consequat ut ex deserunt veniam sit irure. Esse Lorem sint ad veniam reprehenderit duis id. Sit laboris consequat amet duis adipisicing exercitation excepteur est. Ad voluptate deserunt id labore deserunt sit laboris anim.",
+            "desc": "Exercitation deserunt reprehenderit voluptate esse duis irure. Culpa consectetur esse reprehenderit excepteur aute veniam nulla labore esse Lorem duis consectetur ullamco. Dolor excepteur velit aute sit voluptate velit fugiat consequat cillum sint ea amet nisi. Laborum duis enim sunt fugiat eu esse.",
             "imagePath": "eventsImages/technex2023.jpg",
-            "eventLink": "/enigma"
+            "eventLink": "/technex2023/events/showcase"
         }
     ]
 }
